@@ -1,0 +1,53 @@
+.register{
+  max-width: 650px;
+  padding: 20px;
+  border: 1px solid beige;
+  border-radius: 5px;
+}
+h2{
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+.info {
+margin-bottom: 15px;
+}
+.register_button {
+  padding: 10px;
+  background-color: black;
+  color: white;
+  border: 0px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.register_button:hover {
+  background-color: gray;
+
+}
+.employee_list{
+  list-style-type: none;
+  padding: 0%;
+}
+.edit_button {
+  background-color: black;
+  color: white;
+  border: 0px;
+}
+.remove_button{
+  background-color: black;
+  color: white;
+  border: 0px;
+}
+
+.edit_button,.remove_button {
+  padding: 7px 10px;
+  margin-left: 15px;
+  color: aliceblue;
+}
+.edit_button:hover {
+  background-color: gray;
+
+}
+.remove_button:hover {
+  background-color: gray;
+
+}
